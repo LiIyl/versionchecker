@@ -4,23 +4,23 @@
     "warning": false,
     "message": "深刻なバグが発見された為今すぐアップデートしてください"
   },
-  "r_test": {
-    "version": "1.0.0",
-    "warning": true,
+  "r_rank": {
+    "version": "1.1.0",
+    "warning": false,
     "message": "深刻なバグが発見された為今すぐアップデートしてください"
   },
-  "r_trade": {
-    "version": "1.1.2",
+  "r_wdc": {
+    "version": "1.1.0",
     "warning": false,
     "message": ""
   },
-  "r_bank": {
-    "version": "2.0.0",
-    "warning": true,
-    "message": "口座情報が消える重大バグがあります。今すぐ修正バージョンへ更新してください。"
+  "r_horrorattraction": {
+    "version": "1.0.0",
+    "warning": false,
+    "message": ""
   },
-  "r_inventory": {
-    "version": "3.4.1",
+  "r_trade": {
+    "version": "1.2.0",
     "warning": false,
     "message": ""
   }
