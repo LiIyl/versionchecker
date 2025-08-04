@@ -4,6 +4,11 @@
     "warning": false,
     "message": ""
   },
+  "L_ai_doc": {
+    "version": "1.2.0",
+    "warning": false,
+    "message": ""
+  },
   "r_misc": {
     "version": "1.0.0",
     "warning": false,
