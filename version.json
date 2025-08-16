@@ -9,6 +9,11 @@
     "warning": false,
     "message": ""
   },
+  "L_blip": {
+    "version": "1.2.0",
+    "warning": false,
+    "message": ""
+  },
   "r_misc": {
     "version": "1.0.0",
     "warning": false,
