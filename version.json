@@ -41,7 +41,12 @@
   },
   "r_trade": {
     "version": "1.2.0",
-    "warning": false,
+    "warning": true,
+    "message": "リソースの名が変更されました最新版をCFXからダウンロードしてください。"
+  },
+  "Leily_Itemtrade": {
+    "version": "1.2.0",
+    "warning": true,
     "message": ""
   },
   "r_HelicopterThermal": {
