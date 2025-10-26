@@ -39,6 +39,8 @@
     "warning": false,
     "message": ""
   },
+
+
   "r_trade": {
     "version": "1.2.0",
     "warning": true,
@@ -51,6 +53,11 @@
   },
   "r_HelicopterThermal": {
     "version": "1.1.0",
+    "warning": false,
+    "message": ""
+  },
+  "Leily_Airsoft": {
+    "version": "β Version",
     "warning": false,
     "message": ""
   }
