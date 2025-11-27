@@ -63,9 +63,14 @@
     "message": ""
   },
   "Leily_JobNotify":{
-    "version": "β Version",
+    "version": "1.0.0",
     "warning": false,
     "message": "",
-    "fixmessage": ""
+    "fixmessage": [
+      "UIが表示されない問題を修正",
+      "Webhook送信ロジックの改善",
+      "通知システムの安定性向上"
+    ]
   }
+  
 }
