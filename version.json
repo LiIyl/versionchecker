@@ -5,7 +5,6 @@
     "message": ""
   },
   "Leily_BlackMarket": {
-<<<<<<< HEAD
     "version": "1.2.0",
     "warning": false,
     "message": "",
@@ -14,12 +13,6 @@
       "ターゲット距離が間違っていた問題を修正",
       "管理UIからショップの位置を更新出来るように変更"
     ]
-=======
-    "version": "2.1.0",
-    "warning": false,
-    "message": "",
-    "fixmessage": ""
->>>>>>> d69f60203c025e8ffcd57ccba326cc9915468bba
   },
   "L_ai_doc": {
     "version": "1.2.2",
