@@ -5,13 +5,13 @@
     "message": ""
   },
   "Leily_BlackMarket": {
-    "version": "2.2.0",
+    "version": "2.3.0",
     "warning": false,
     "message": "",
     "fixmessage": [
-      "管理UIからショップのターゲット範囲を作成・編集できるように変更",
-      "ターゲット距離が間違っていた問題を修正",
-      "管理UIからショップの位置を更新出来るように変更"
+      "shopの取引時に現金か銀行かを設定出来るようにしました。",
+      "",
+      ""
     ]
   },
   "Leily_SkeetShooting": {
