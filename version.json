@@ -1,17 +1,16 @@
 {
   "Azazel": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "warning": false,
-    "message": ""
+    "message": "",
+    "fixmessage": ""
   },
   "Leily_BlackMarket": {
     "version": "2.3.0",
     "warning": false,
     "message": "",
     "fixmessage": [
-      "shopの取引時に現金か銀行かを設定出来るようにしました。",
-      "",
-      ""
+      "shopの取引時に現金か銀行かを設定出来るようにしました。"
     ]
   },
   "Leily_SkeetShooting": {
