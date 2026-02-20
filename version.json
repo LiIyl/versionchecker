@@ -85,6 +85,12 @@
     "message": "",
     "fixmessage": ""
   },
+  "Leily_fps_Boost": {
+    "version": "1.0.0",
+    "warning": false,
+    "message": "",
+    "fixmessage": ""
+  },  
   "Leily_JobNotify":{
     "version": "1.0.0",
     "warning": false,
