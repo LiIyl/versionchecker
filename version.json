@@ -5,6 +5,12 @@
     "message": "",
     "fixmessage": ""
   },
+  "AzazelAdminMenu": {
+    "version": "1.2.0",
+    "warning": false,
+    "message": "",
+    "fixmessage": ""
+  },
   "Leily_BlackMarket": {
     "version": "2.3.0",
     "warning": false,
