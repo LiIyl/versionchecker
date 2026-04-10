@@ -25,7 +25,12 @@
     "message": "",
     "fixmessage": ""
   },
-  
+  "Leily_real_ai": {
+    "version": "2.0.0",
+    "warning": false,
+    "message": "",
+    "fixmessage": ""
+  },
   "Leily_ai_doc": {
     "version": "1.3.0",
     "warning": false,
