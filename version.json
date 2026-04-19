@@ -79,6 +79,12 @@
     "message": "",
     "fixmessage": ""
   },
+  "Leily_hostage":{
+    "version": "1.0.0",
+    "warning": false,
+    "message": "",
+    "fixmessage": ""
+  },
 
   "Free": {},
   "r_trade": {
