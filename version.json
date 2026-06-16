@@ -36,10 +36,12 @@
     "fixmessage": ""
   },
   "Leily_ai_doc": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "warning": false,
     "message": "",
-    "fixmessage": ""
+    "fixmessage": [
+      "・NPCドクターがスタックして上手く蘇生がされない問題を修正"
+    ]
   },
   "L_ai_doc": {
     "version": "1.3.0",
