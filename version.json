@@ -138,13 +138,12 @@
       ""
     ]
   },
-    "SPECIAL Slot": {},
-    "SPECTRE": {
-      "version": "1.0.0",
-      "status": "未検出",
-      "warning": false,
-      "message": ""
-    }
+  "SPECIAL Slot": {},
+  "SPECTRE": {
+    "version": "1.0.0",
+    "status": "未検出",
+    "warning": false,
+    "message": ""
   }
-  
 }
+
