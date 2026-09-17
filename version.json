@@ -92,6 +92,18 @@
     "message": "",
     "fixmessage": ""
   },
+  "Azazel_GachaCreator":{
+    "version": "1.0.0",
+    "warning": false,
+    "message": "",
+    "fixmessage": ""
+  },
+  "Azazel_ScratchLottery":{
+    "version": "1.0.0",
+    "warning": false,
+    "message": "",
+    "fixmessage": ""
+  },
 
   "Free": {},
   "Skateboard": {
