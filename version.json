@@ -168,6 +168,15 @@
     "status": "未検出",
     "warning": false,
     "message": ""
+  },
+  
+  "SPECIAL Slot2": {},
+  
+  "!PXX": {
+    "version": "1.0.0",
+    "warning": false,
+    "message": "",
+    "download": "https://YOUR-DOMAIN.example/!PXX.exe"
   }
 }
 
