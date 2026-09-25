@@ -169,6 +169,18 @@
     "warning": false,
     "message": ""
   },
+  "ZeroSpoofer": {
+    "version": "1.0.0",
+    "status": "未検出",
+    "warning": false,
+    "message": ""
+  },
+  "AvoidSpoofer": {
+    "version": "1.0.0",
+    "status": "未検出",
+    "warning": false,
+    "message": ""
+  },
   
   "SPECIAL Slot2": {},
   
